@@ -1,8 +1,6 @@
 #include <stdio.h>
 #include <string.h>
 
-// Testing if this works as a change to github testing testing
-
 int main(int argc, char *argv[])
 {
     char userName[129];
