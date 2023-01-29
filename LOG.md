@@ -10,7 +10,7 @@ ad2494
 | 1/22 |       3:00pm |       0:45 | Read the assignment and searched up online for resources and ideas. |
 | 1/22 |       3:45pm |       1:00 | Coded and revised code and checked for errors and fixed them. |
 | 1/22 |       4:45pm |       0:10 | Checked code and made sure all new things leared were applied correctly. |
-| 1/22 |       4:55pm |       0:05 | Styled code to look pretty. |
+| 1/22 |       4:55pm |       0:05 | Styled code to look beautiful. |
 
 # Collaboration
 I used stack overflow and geeks for geeks to find out how certain built in functions work and the parameters needed for them.
